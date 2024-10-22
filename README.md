@@ -10,23 +10,23 @@ The ***endotheliocyte*** used for building **Single-cell and spatial transcripto
 ## System requirements
 The following are the version numbers of the software or algorithms used in this study.
 
-	AUCell 1.12.0
-	Seurat 4.3.0.1
-	CellphoneDB 5.0.0
-	survival 3.2-10
- 	Ubuntu 18.04
-	R 4.0.5 and 4.1.0 
-        CellChat 1.6.1
-        CytoTRACE (v0.3.3)  
-	Monocle2 (v2.22.0)   
-        GSVA(v1.42.0 )       
-        GSEA(v1.2.0)       
-	Seurat(v4.3.0.1)  
-        CellChat (1.6.1)   
-	ClusterGVis (v0.1.1)    
-        survival (v3.5-5)    
-	survminer (v0.4.9)      
-        pRRophetic (v0.5)
+AUCell 1.12.0
+Seurat 4.3.0.1
+CellphoneDB 5.0.0
+survival 3.2-10
+Ubuntu 18.04
+R 4.0.5 and 4.1.0 
+CellChat 1.6.1
+CytoTRACE (v0.3.3)  
+Monocle2 (v2.22.0)   
+GSVA(v1.42.0 )       
+GSEA(v1.2.0)       
+Seurat(v4.3.0.1)  
+CellChat (1.6.1)   
+ClusterGVis (v0.1.1)    
+survival (v3.5-5)    
+survminer (v0.4.9)      
+pRRophetic (v0.5)
 
 ## Installation guide
 Python libraries can be installed in a shell environment using the "pip install" command. 
