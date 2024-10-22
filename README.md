@@ -5,25 +5,28 @@ The ***endotheliocyte*** used for building **Single-cell and spatial transcripto
 1. System requirements
 2. Installation guide
 3. Codes
-4. Dataset
 5. Contact
 
 ## System requirements
 The following are the version numbers of the software or algorithms used in this study.
 
 	AUCell 1.12.0
-	GSVA 1.38.2
 	Seurat 4.3.0.1
-	scFEA 1.1
-	Palantir 1.3.3
-	scanpy 1.10.1
-	monocle3 1.3.1
 	CellphoneDB 5.0.0
-	TCGAbiolinks 2.26.0
 	survival 3.2-10
-	Python 3.9
  	Ubuntu 18.04
-	R 4.0.5, 4.1.0 and 4.3.1(only for SENIC analysis)
+	R 4.0.5 and 4.1.0 
+        CellChat 1.6.1
+        CytoTRACE (v0.3.3)  
+	Monocle2 (v2.22.0)   
+        GSVA(v1.42.0 )       
+        GSEA(v1.2.0)       
+	Seurat(v4.3.0.1)  
+        CellChat (1.6.1)   
+	ClusterGVis (v0.1.1)    
+        survival (v3.5-5)    
+	survminer (v0.4.9)      
+        pRRophetic (v0.5)
 
 ## Installation guide
 Python libraries can be installed in a shell environment using the "pip install" command. 
@@ -33,18 +36,13 @@ Python libraries can be installed in a shell environment using the "pip install"
 R packages can be installed in the R environment using the "install.packege()" or "BiocManager::install()" commands.
 
 	install.packege("packege_name")
-
 	if(!"BiocManager"%in%installed.packages()){ 
 	install.packages("BiocManager")}
  	if(!"packege_name"%in%installed.packages()){ 
 	BiocManager::install("packege_name")}
-
 	if (!"devtools" %in% installed.packages()) {
   	install.packages("devtools")}
    	devtools::install_github("packege_name")
-
-
-
 ## Codes
 Specific descriptions of the codes can be found in the corresponding documents.
 ### 1. Download data
