@@ -57,7 +57,7 @@ Specific descriptions of the codes can be found in the corresponding documents.
 
 "5.GSVA.R" conducts functional enrichment pathway analysis for cell subpopulations.
 
-"6.interaction.R" is mainly applied to analyze cell-cell communication between subpopulations.
+"6.Interaction.R" is mainly applied to analyze cell-cell communication between subpopulations.
 
 "7.Pseudo time.R" analyzes the differentiation trajectories of cell subpopulations.
 
