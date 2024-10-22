@@ -100,10 +100,5 @@ Specific descriptions of the codes can be found in the corresponding documents.
 "2_GSVA.txt" was used to explore enrichment pathways in cellular subclusters.
 ### 8. Spatial transcriptome
 "TESLA.txt" was used to verify the presence of specific cells in the spatial transcriptome.
-
-## Dataset
-The dataset for this study is maintained in the [_zenodo_](https://zenodo.org/) database under the registration number: [_11577432_](https://zenodo.org/records/11577432). 
-The dataset includes processed single-cell sequencing data from 25 types of solid tumors and 3 normal tissues.
-
 ## Contact
 If you have any questions or feedback, feel free to contact me at tanghaijun@sr.gxmu.edu.cn.
