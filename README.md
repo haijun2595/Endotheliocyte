@@ -1,5 +1,4 @@
-# endotheliocyte
-# endotheliocyte
+# Endotheliocyte
 The ***endotheliocyte*** used for building **Single-cell and spatial transcriptomics reveals the key role of MCAM+ tip-like endothelial cells in osteosarcoma metastasis**.
 
 ## Table of Contents
