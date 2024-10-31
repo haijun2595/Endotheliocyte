@@ -16,8 +16,6 @@ Seurat 4.3.0.1
 
 CellphoneDB 3.0.0
 
-survival 3.2-10
-
 Ubuntu 18.04
 
 R 4.0.5 and 4.1.0 
@@ -31,8 +29,6 @@ GSVA(v1.42.0 )
 GSEA(v1.2.0)      
 
 Seurat(v4.3.0.1)  
-
-CellChat (1.6.1)   
 
 ClusterGVis (v0.1.1)    
 
