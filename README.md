@@ -12,11 +12,10 @@ The following are the version numbers of the software or algorithms used in this
 
 AUCell 1.12.0
 Seurat 4.3.0.1
-CellphoneDB 5.0.0
+CellphoneDB 3.0.0
 survival 3.2-10
 Ubuntu 18.04
 R 4.0.5 and 4.1.0 
-CellChat 1.6.1
 CytoTRACE (v0.3.3)  
 Monocle2 (v2.22.0)   
 GSVA(v1.42.0 )       
