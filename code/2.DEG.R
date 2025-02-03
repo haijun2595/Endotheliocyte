@@ -196,7 +196,7 @@ if(F){
  
  sig_markers <- markers_filtered %>%
    group_by(cluster)%>%
-   top_n(n = 5, wt = avg_log2FC)
+   top_n(n = 6, wt = avg_log2FC)
  head(sig_markers)
  
  
